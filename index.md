@@ -1,91 +1,67 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: Saurabh Bhise's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Saurabh Bhise
+FrontEnd, BackEnd, DevOps, UI/UX Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="saurabhbhise.online">saurabhbhise.online</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+StartUp - `QYK Bikes` `Software Engineer`
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+ReactJS And ThreeJS
 
 
-### Research interests
+### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+|Frontend | Backend | DevOps| UI/UX |
+| -------- | ------- | -------- | ------- |
+|CSS , HTML5, React Js, ThreeJs, Tailwind CSS | Node.js, MongoDB, SQL, Clerk |Git, GitHub, Docker |Figma,Abobe Illustrator|
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2017-2021`
+`BE Comp`
+__D Y Patil College Of Engineering, Akurdi__
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Apr 2021 - Aug 2021` <br>
+ _Database Engineer_, _Braves Technologies_ <br>
+  - Created and maintained a database of customer information and transactions, resulting in improved customer retention rates
+  - Developed and maintained a comprehensive database of customer information, resulting in improved customer service
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Jan 2023 - Present` <br>
+_Software Engineer, QYK Bikes_<br>
+- Developed REST API and implemented authentication protocols, such as OAuth, to securely expose data to clients
+- Improved database performance by 3% through query optimization and indexing
+- Designed and developed a scalable, high-availability web application that handled 1400 concurrent users with minimal downtime
 
+
+
+
+
+## Freelancing
+`Feb 2022 - Feb 2022`<br>
+_Web Developer, Classic Communication_
+- Create a Landing Page
+- Add WhatsApp message Support for customer service booking
+
+`May 2022 - May 2022` <br>
+_Web Developer, Pulse Hospital_ <br>
+- Design a Dashboard for an Admin to monitor asset
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Aug 2023 -->
 
 
